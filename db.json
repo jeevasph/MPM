@@ -1,30 +1,30 @@
 [{
-		filebox_id: '122545',
-		file_name: 'Source File 15151',
-		uploaded_at: '15-02-2018',
-		uploaded_by: 'Saravana',
-		status: 'Completed',
-		size: '15kb'
+		"filebox_id": '122545',
+		"file_name": 'Source File 15151',
+		"uploaded_at": '15-02-2018',
+		"uploaded_by": 'Saravana',
+		"status": 'Completed',
+		"size": '15kb'
 	}, {
-		filebox_id: '122545',
-		file_name: 'Source File 15151',
-		uploaded_at: '15-02-2018',
-		uploaded_by: 'Saravana',
-		status: 'Completed',
-		size: '15kb'
+		"filebox_id": '122545',
+		"file_name": 'Source File 15151',
+		"uploaded_at": '15-02-2018',
+		"uploaded_by": 'Saravana',
+		"status": 'Completed',
+		"size": '15kb'
 	}, {
-		filebox_id: '122545',
-		file_name: 'Source File 15151',
-		uploaded_at: '15-02-2018',
-		uploaded_by: 'Saravana',
-		status: 'Completed',
-		size: '15kb'
+		"filebox_id": '122545',
+		"file_name": 'Source File 15151',
+		"uploaded_at": '15-02-2018',
+		"uploaded_by": 'Saravana',
+		"status": 'Completed',
+		"size": '15kb'
 	}, {
-		filebox_id: '122545',
-		file_name: 'Source File 15151',
-		uploaded_at: '15-02-2018',
-		uploaded_by: 'Saravana',
-		status: 'Completed',
-		size: '15kb'
+		"filebox_id": '122545',
+		"file_name": 'Source File 15151',
+		"uploaded_at": '15-02-2018',
+		"uploaded_by": 'Saravana',
+		"status": 'Completed',
+		"size": '15kb'
 	}
 ]
